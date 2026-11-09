@@ -1,0 +1,25 @@
+{
+  "item": [
+    {
+      "id": "1",
+      "activities": "Banana",
+      "check": false
+    },
+    {
+      "id": "2",
+      "activities": "Television",
+      "check": false
+    },
+    {
+      "id": "3",
+      "activities": "Speaker",
+      "check": false
+    },
+    {
+      "id": "bBgqaIGKcRk",
+      "activities": "Mknknnk",
+      "check": false
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
