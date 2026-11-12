@@ -1,8 +1,8 @@
 import React from 'react'
 
-const Footer = ({item}) => {
+const Footer = () => {
   return (
-    <h1>No of item: {item.length}</h1>
+    <div className='bg-slate-800 text-white text-center font-serif'>@facebook.com {new Date().getFullYear()}</div>
   )
 }
 

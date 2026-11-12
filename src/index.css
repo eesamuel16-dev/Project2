@@ -1,13 +1,7 @@
-/*@import "tailwindcss";
-@plugin "daisyui";*/
+@import "tailwindcss";
+@plugin "daisyui";
+
+/* @custom-variant dark (&:where(.dark,.dark *)); */
 
 
-#editop{
-    background-color: rgb(194, 191, 191);
-    position:relative;
-    z-index: 1;
-    top:10px;
-    height: 70px;
-    padding-top:40px;
-    text-align:center
-}
+
